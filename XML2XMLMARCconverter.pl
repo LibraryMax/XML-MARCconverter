@@ -1,5 +1,5 @@
 #This is an plain XML to XMLMARC converter.
-#Copyright (C) <2014>  <Max Cohen>
+#Copyright (C) <2014>  <Max Cohen and Alex Cohen>
 #
 #This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by
@@ -15,7 +15,7 @@
 #along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
- print "hello";
+ print "Starting XMLMARC converter";
 
 
 $inputname = $ARGV[0];
